@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>Nikki.PawnRoutines</packageId>
+    <name>Pawn Routines</name>
+    <author>Nikki</author>
+    <description>Allows you to configure routines for your Pawns.</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modVersion>1.0</modVersion>
+</ModMetaData>
