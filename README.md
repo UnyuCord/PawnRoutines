@@ -1,2 +1,2 @@
 # PawnRoutines
-Allows you to configure routines for your Pawns.
+A Rimworld mod that allows you to configure routines for your Pawns.
