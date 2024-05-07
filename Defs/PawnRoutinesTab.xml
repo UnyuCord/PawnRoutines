@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <MainButtonDef>
+        <defName>Routines</defName>
+        <label>routines</label>
+        <description>Configure routines for your pawns.</description>
+        <tabWindowClass>PawnRoutines.MainTabWindow_Routines</tabWindowClass>
+        <order>99</order>
+        <validWithoutMap>true</validWithoutMap>
+        <minimized>true</minimized>
+    </MainButtonDef>
+</Defs>
